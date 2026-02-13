@@ -1,7 +1,7 @@
 Number Guessing Game 
 = My first java project from cs20 so it's pretty basic but I thought I might as well document it because why not...
 
-To run the program, download the repository (aka the one single file lol) and run it as a java project.
+To run the program, create a package of code called "code", a class called "Main" then download the repository (aka the one single file lol) and run it as a java project.
 The program will prompt you what to do from there.
 
 In this program:
